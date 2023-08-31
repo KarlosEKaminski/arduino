@@ -1,7 +1,7 @@
 <h1 align="center">Arduino</h1>
 Lista de exercícios de arduino realizados em sala de aula na Universidade do Sul de Santa Catarina no ano de 2023.
 
-<h2 align="center">Conteúdo:</h2>
+<h2 align="center"> 📚 Conteúdo:</h2>
 <div align="center">
   
   | Exercício | Enunciado| arquivo (.ino) |
