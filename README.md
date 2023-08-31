@@ -6,27 +6,27 @@ Lista de exercícios de arduino realizados em sala de aula na Universidade do Su
   
   | Exercício | Enunciado| arquivo (.ino) |
   |-----------|----------|----------------|
-  | arduino mais simples |[enunciado]()|[arduino1]()|
-  | manipulando um led |[enunciado]()|[arduino2]()|
-  | manipulando 2 leds em sequência |[enunciado]()|[arduino3]()|
-  | manipulando 2 leds em paralelo |[enunciado]()|[arduino4]()|
-  | semáforo 2 luzes |[enunciado]()|[arduino5]()|
-  | semáforo 3 luzes |[enunciado]()|[arduino6]()|
-  | aumentando o brilho do led |[enunciado]()|[arduino7]()|
-  | led rgb |[enunciado]()|[arduino8]()|
-  | medindo a luminosidade |[enunciado]()|[arduino9]()|
-  | led sensível a luminosidade |[enunciado]()|[arduino10]()|
-  | medindo a distância |[enunciado]()|[arduino11]()|
-  | medindo a distância com leds|[enunciado]()|[arduino12]()|
-  | lendo um botão |[enunciado]()|[arduino13]()|
-  | liga e desliga led com um botão |[enunciado]()|[arduino14]()|
-  | detector de movimento led |[enunciado]()|[arduino15]()|
-  | controlando um micro-servo |[enunciado]()|[arduino16]()|
-  | controlando um micro-servo com um botão|[enunciado]()|[arduino17]()|
-  | música com buzzer passivo |[enunciado]()|[arduino18]()|
-  | usando sensor de inclinação |[enunciado]()|[arduino19]()|
-  | lendo um potenciômetro |[enunciado]()|[arduino20]()|
-  | controlando a velocidade do pisca-pisca |[enunciado]()|[arduino21]()|
+  | arduino mais simples |[enunciado](https://github.com/KarlosEKaminski/arduino/blob/main/exercicios-arduino-2023/1.%20arduino%20mais%20simples/enunciado-exercicio.md)|[arduino1](https://github.com/KarlosEKaminski/arduino/blob/main/exercicios-arduino-2023/1.%20arduino%20mais%20simples/arduino1.ino)|
+  | manipulando um led |[enunciado](https://github.com/KarlosEKaminski/arduino/blob/main/exercicios-arduino-2023/2.%20manipulando%20um%20led/enunciado-exercicio.md)|[arduino2](https://github.com/KarlosEKaminski/arduino/blob/main/exercicios-arduino-2023/2.%20manipulando%20um%20led/arduino2.ino)|
+  | manipulando 2 leds em sequência |[enunciado](https://github.com/KarlosEKaminski/arduino/blob/main/exercicios-arduino-2023/3.%20manipulando%202%20leds%20em%20sequencia/enunciado-exercicio.md)|[arduino3](https://github.com/KarlosEKaminski/arduino/blob/main/exercicios-arduino-2023/3.%20manipulando%202%20leds%20em%20sequencia/arduino3.ino)|
+  | manipulando 2 leds em paralelo |[enunciado](https://github.com/KarlosEKaminski/arduino/blob/main/exercicios-arduino-2023/4.%20manipulando%202%20leds%20em%20paralelo/enunciado-exercicio.md)|[arduino4](https://github.com/KarlosEKaminski/arduino/blob/main/exercicios-arduino-2023/4.%20manipulando%202%20leds%20em%20paralelo/arduino4.ino)|
+  | semáforo 2 luzes |[enunciado](https://github.com/KarlosEKaminski/arduino/blob/main/exercicios-arduino-2023/5.%20semaforo%20de%202%20luzes/enunciado-exercicio.md)|[arduino5](https://github.com/KarlosEKaminski/arduino/blob/main/exercicios-arduino-2023/5.%20semaforo%20de%202%20luzes/arduino5.ino)|
+  | semáforo 3 luzes |[enunciado](https://github.com/KarlosEKaminski/arduino/blob/main/exercicios-arduino-2023/6.%20semaforo%20de%203%20luzes/enunciado-exercicio.md)|[arduino6](https://github.com/KarlosEKaminski/arduino/blob/main/exercicios-arduino-2023/6.%20semaforo%20de%203%20luzes/arduino6.ino)|
+  | aumentando o brilho do led |[enunciado](https://github.com/KarlosEKaminski/arduino/blob/main/exercicios-arduino-2023/7.%20aumentando%20brilho%20do%20led/enunciado-exercicio.md)|[arduino7](https://github.com/KarlosEKaminski/arduino/blob/main/exercicios-arduino-2023/7.%20aumentando%20brilho%20do%20led/arduino7.ino)|
+  | led rgb |[enunciado](https://github.com/KarlosEKaminski/arduino/blob/main/exercicios-arduino-2023/8.%20led%20rgb/enunciado-exercicio.md)|[arduino8](https://github.com/KarlosEKaminski/arduino/blob/main/exercicios-arduino-2023/8.%20led%20rgb/arduino8.ino)|
+  | medindo a luminosidade |[enunciado](https://github.com/KarlosEKaminski/arduino/blob/main/exercicios-arduino-2023/9.%20medindo%20a%20luminosidade/enunciado-exercicio.md)|[arduino9](https://github.com/KarlosEKaminski/arduino/blob/main/exercicios-arduino-2023/9.%20medindo%20a%20luminosidade/arduino9.ino)|
+  | led sensível a luminosidade |[enunciado](https://github.com/KarlosEKaminski/arduino/blob/main/exercicios-arduino-2023/10.%20led%20sensivel%20a%20luminosidade/enunciado-exercicio.md)|[arduino10](https://github.com/KarlosEKaminski/arduino/blob/main/exercicios-arduino-2023/10.%20led%20sensivel%20a%20luminosidade/arduino10.ino)|
+  | medindo a distância |[enunciado](https://github.com/KarlosEKaminski/arduino/blob/main/exercicios-arduino-2023/11.%20medindo%20a%20distancia/enunciado-exercicio.md)|[arduino11](https://github.com/KarlosEKaminski/arduino/blob/main/exercicios-arduino-2023/11.%20medindo%20a%20distancia/arduino11.ino)|
+  | medindo a distância com leds|[enunciado](https://github.com/KarlosEKaminski/arduino/blob/main/exercicios-arduino-2023/12.%20medindo%20a%20distancia%20com%20leds/enunciado-exercicio.md)|[arduino12](https://github.com/KarlosEKaminski/arduino/blob/main/exercicios-arduino-2023/12.%20medindo%20a%20distancia%20com%20leds/arduino12.ino)|
+  | lendo um botão |[enunciado](https://github.com/KarlosEKaminski/arduino/blob/main/exercicios-arduino-2023/13.%20lendo%20um%20botao/enunciado-exercicio.md)|[arduino13](https://github.com/KarlosEKaminski/arduino/blob/main/exercicios-arduino-2023/13.%20lendo%20um%20botao/arduino13.ino)|
+  | liga e desliga led com um botão |[enunciado](https://github.com/KarlosEKaminski/arduino/blob/main/exercicios-arduino-2023/14.%20liga%20e%20desliga%20led%20com%20um%20botao/enunciado-exercicio.md)|[arduino14](https://github.com/KarlosEKaminski/arduino/blob/main/exercicios-arduino-2023/14.%20liga%20e%20desliga%20led%20com%20um%20botao/arduino14.ino)|
+  | detector de movimento led |[enunciado](https://github.com/KarlosEKaminski/arduino/blob/main/exercicios-arduino-2023/15.%20detector%20de%20movimento%20led/enunciado-exercicio.md)|[arduino15](https://github.com/KarlosEKaminski/arduino/blob/main/exercicios-arduino-2023/15.%20detector%20de%20movimento%20led/arduino15.ino)|
+  | controlando um micro-servo |[enunciado](https://github.com/KarlosEKaminski/arduino/blob/main/exercicios-arduino-2023/16.%20controlando%20um%20micro%20servo/enunciado-exercicio.md)|[arduino16](https://github.com/KarlosEKaminski/arduino/blob/main/exercicios-arduino-2023/16.%20controlando%20um%20micro%20servo/arduino16.ino)|
+  | controlando um micro-servo com um botão|[enunciado](https://github.com/KarlosEKaminski/arduino/blob/main/exercicios-arduino-2023/17.%20controlando%20um%20micro%20servo%20com%20um%20botao/enunciado-exercicio.md)|[arduino17](https://github.com/KarlosEKaminski/arduino/blob/main/exercicios-arduino-2023/17.%20controlando%20um%20micro%20servo%20com%20um%20botao/arduino17.ino)|
+  | música com buzzer passivo |[enunciado](https://github.com/KarlosEKaminski/arduino/blob/main/exercicios-arduino-2023/18.%20musica%20com%20buzzer%20passivo/enunciado-exercicio.md)|[arduino18](https://github.com/KarlosEKaminski/arduino/blob/main/exercicios-arduino-2023/18.%20musica%20com%20buzzer%20passivo/arduino18.ino)|
+  | usando sensor de inclinação |[enunciado](https://github.com/KarlosEKaminski/arduino/blob/main/exercicios-arduino-2023/19.%20usando%20sensor%20de%20inclina%C3%A7%C3%A3o/enunciado-exercicio.md)|[arduino19](https://github.com/KarlosEKaminski/arduino/blob/main/exercicios-arduino-2023/19.%20usando%20sensor%20de%20inclina%C3%A7%C3%A3o/arduino19.ino)|
+  | lendo um potenciômetro |[enunciado](https://github.com/KarlosEKaminski/arduino/blob/main/exercicios-arduino-2023/20.%20lendo%20um%20potenciometro/enunciado-exercicio.md)|[arduino20](https://github.com/KarlosEKaminski/arduino/blob/main/exercicios-arduino-2023/20.%20lendo%20um%20potenciometro/arduino20.ino)|
+  | controlando a velocidade do pisca-pisca |[enunciado](https://github.com/KarlosEKaminski/arduino/blob/main/exercicios-arduino-2023/21.%20controlando%20a%20velocidade%20do%20pisca-pisca/enunciado-exercicio.md)|[arduino21](https://github.com/KarlosEKaminski/arduino/blob/main/exercicios-arduino-2023/21.%20controlando%20a%20velocidade%20do%20pisca-pisca/arduino21.ino)|
   
 
 </div>  
